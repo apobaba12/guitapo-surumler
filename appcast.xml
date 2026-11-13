@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Guitapo</title>
+    <item>
+      <title>Guitapo 0.16.0</title>
+      <pubDate>Fri, 13 Nov 2026 11:51:35 GMT</pubDate>
+      <description><![CDATA[<h3>Guitapo 0.16.0</h3><ul><li>Unvan sınavları: her yeni unvan için bir &quot;bölüm sonu&quot; parçası (Profil → Unvan sınavı). Sınav III. kademede açılır; Usta, Efsane ve Virtüöz sınavları kendi zor şarkınla da geçilebilir</li><li>Gitarist puanı yeniden ayarlandı: ilk unvanlar daha yakın, sonrakiler daha uzun; daha iyi çalmak (yıldız, hız) daha çok puan getirir, pratiğe günde en çok 2 saat sayılır. Puanın yeni kurallarla hesaplanır, ulaştığın unvan geri alınmaz</li><li>Yeni zorluk hesabı: hız, sol el, tel geçişi, teknik, akor ve ritim. Şarkı kartında ondalıklı zorluk (ör. 2,8), oyun ekranında zorluk çubukları; solo partisyonları artık doğru zorlukta</li><li>Sınavı 3 kez geçemeyince en çok neyi kaçırdığın ve en zor ölçüler söylenir, ilgili egzersize bağlantı verilir</li><li>2 haftadır kademe atlamadıysan profil en hızlı yolu önerir</li><li>Yenilikler: güncellemeden sonra bu pencere bir kez çıkar; Bilgi → 📋 Yenilikler ile yeniden açılır</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/apobaba12/guitapo-surumler/main/Guitapo-Kurulum-0.16.0.exe"
+                 sparkle:version="0.16.0"
+                 sparkle:os="windows-x64"
+                 sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /NORESTART"
+                 sparkle:edSignature="pdHxHoG3aCNKbGrCy7Z69ZaK8iTcvQF9Sn6EPEEnw+iqhJJKIC/HhdFvKypVteTn42nSTkoy/8ZDHmXsbc3UBA=="
+                 length="15054596"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
