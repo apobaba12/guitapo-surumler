@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Guitapo</title>
+    <item>
+      <title>Guitapo 0.20.12</title>
+      <pubDate>Fri, 20 Nov 2026 22:22:34 GMT</pubDate>
+      <description><![CDATA[<h3>Guitapo 0.20.12</h3><ul><li>Guitapo Amfi&#x27;ye gerçek kabinler: pencerede yeni &quot;Kabin&quot; seçeneği; 5 gerçek 4x12 kabin (V30 Dengeli, Oyuk, Keskin, DV77, V30 + DV77)</li><li>Yeni eklenen amfi V30 Dengeli kabinle açılır; kayıtlı ön ayarlarının sesi değişmez (&quot;Basit&quot; kalır)</li><li>&quot;Benim yerime kur&quot; artık kabinleri de dener ve seçtiği kabini adıyla gösterir</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/apobaba12/guitapo-surumler/main/Guitapo-Kurulum-0.20.12.exe"
+                 sparkle:version="0.20.12"
+                 sparkle:os="windows-x64"
+                 sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /NORESTART"
+                 sparkle:edSignature="vy1FKZTSPeJ6OO7MuLK2OGwkb8c5OGwMMPK2efrc+txXswwvqyZ6SOqrySIMUJzdyE/Pz8PT7qRkZ5Qdhb10Bw=="
+                 length="24295108"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>

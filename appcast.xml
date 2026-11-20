@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Guitapo</title>
+    <item>
+      <title>Guitapo 0.20.9</title>
+      <pubDate>Fri, 20 Nov 2026 06:21:23 GMT</pubDate>
+      <description><![CDATA[<h3>Guitapo 0.20.9</h3><ul><li>Rozetler: 44&#x27;ten 87&#x27;ye çıktı; yeni 4. kademe Elmas, kademeler arası daha kısa</li><li>Yeni rozet grupları: Azim, Uzun seans, Hafta sonu gitaristi, Bölüm bölüm, Adım adım, Çok yönlü (yeni unvanlarla)</li><li>Rozet kartlarında kademe simgeleri: bronz, gümüş, altın madalya ve elmas; rozetin kademesi parlar</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/apobaba12/guitapo-surumler/main/Guitapo-Kurulum-0.20.9.exe"
+                 sparkle:version="0.20.9"
+                 sparkle:os="windows-x64"
+                 sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /NORESTART"
+                 sparkle:edSignature="bM3UbxXlDIrLpXSfG2+G5M/3b5Nz4w16V5NJlu13xOD5kXy8byS6SiGsLdtB69M+J6au/HwGICkLFcQeVNqyAQ=="
+                 length="22151099"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
