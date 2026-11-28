@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Guitapo</title>
+    <item>
+      <title>Guitapo 0.20.29</title>
+      <pubDate>Sat, 28 Nov 2026 13:57:49 GMT</pubDate>
+      <description><![CDATA[<h3>Guitapo 0.20.29</h3><ul><li>Yeni: Eğitmenine bağlan (pilot): Profil&#x27;de Eğitmen kodum var ile kodu gir; eğitmenin çalışma özetini görür</li><li>Eğitmenler için panel: öğrenci listesi, haftalık süre, uyarılar, davet kodları</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/apobaba12/guitapo-surumler/main/Guitapo-Kurulum-0.20.29.exe"
+                 sparkle:version="0.20.29"
+                 sparkle:os="windows-x64"
+                 sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /NORESTART"
+                 sparkle:edSignature="ZSUp/pxu/T7YnBVRh6LbILbS3pg/XzDksyR8/tO3f1/MRANDojZ49Rj+307862ujoDCW92U63B4hZzd4P9v5Dw=="
+                 length="29684601"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>

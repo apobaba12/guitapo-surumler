@@ -1,0 +1,8 @@
+{
+ "version": "0.3.33",
+ "apk": "https://raw.githubusercontent.com/apobaba12/guitapo-surumler/main/android/Guitapo-Android-0.3.33.apk",
+ "notes": [
+  "Yeni: Freestyle kaydında amfi tonu; tarz akor dizisine uyar",
+  "Düzeltme: sonuç kartı alçak ekranda tam görünür; telefonda sekmeler ve gam adı"
+ ]
+}

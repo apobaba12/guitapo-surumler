@@ -1,0 +1,108 @@
+# Guitapo Android (deneme)
+
+Son sürüm: **0.3.34**
+
+Telefonda indir: https://raw.githubusercontent.com/apobaba12/guitapo-surumler/main/android/Guitapo-Android-0.3.34.apk
+
+Kurulum: dosyaya dokun; Android "bilinmeyen uygulamaları yükle" izni isterse ver.
+
+## Bu sürümde
+
+- Yeni: Eğitmen kodu (pilot) ve eğitmen paneli
+- 
+- Yeni: Freestyle kaydında amfi tonu; tarz akor dizisine uyar
+- Düzeltme: sonuç kartı alçak ekranda tam görünür; telefonda sekmeler ve gam adı
+- 
+- Yeni: Freestyle çal'da Kaydet (arka plan müziğiyle birlikte, WAV)
+- Düzeltme: kırmızı uyarı düğmesi ekranı kaydırmıyor
+- 
+- Düzeltme: Rozetler penceresi daha hafif
+- Takılmalar kaydediliyor (sorunları daha hızlı bulmak için)
+- 
+- Yeni: Profilde rozet vitrini (en çok 6 rozet seç, sergile)
+- Menüler daha okunur; telefonda egzersiz sekmeleri tek satır
+- Ayarlar sadeleşti; Öğren ekranında Egzersiz / Isınma kısayolları
+- 
+- Yeni: 5 özgün gitar modeli (Kor, Lavanta, Gece, Derin, Eski Dost); Ayarlar → Görünüm → Gitar modeli
+- Menü arka planı daha akıcı
+- 
+- Yeni: Araçlar → Freestyle çal. Gama uygun eşlikle doğaçlama, klavyede gam işaretli, tempo serbest
+- Gam dışı nota çalınca kırmızı uyarı (kapatılabilir)
+- 
+- Düzeltme: yanlışlıkla çıkan "Başka bir cihazında yeni ilerleme var" uyarısı ve iki kez sayılan çalışma süresi
+- 
+- Rozetler, unvanlar ve profil simgeleri yeni madalya tarzında; ikonlar yenilendi
+- Elektro temasında yeni headless gitar (parlak lak, metal altın, ahşap klavye)
+- 
+- Guitapo hesabı (isteğe bağlı): ilerlemen ve tercihlerin bilgisayarınla telefonun arasında eşitlenir
+- İlk kurulum ekranı; ekran geçişleri kaymadan açılıyor
+- 
+- Oyun ekranında ⏺ Kayıt düğmesi; kartta metronom sesi (Tık / Davul)
+- Düzeltme: "⚙ Ses ve görünüm" menüsü ve Görünüm paneli açılıyor
+- Unvan sınavı 9 (Virtüöz) baştan yazıldı (neoklasik, 200 BPM final)
+- "Neler gönderilir?" gizlilik penceresi; kurulum kimliğin Bilgi → Sorun bildir'de görünür
+- Yeni tema: Aydınlık (Ayarlar → Görüntü → Tema); yeni headless gitar
+- Uygulama çökerse, hata raporuna izin verdiysen bir sonraki açılışta kısa bir teknik kayıt gönderilir
+- Bilgi → 📜 Üçüncü taraf lisansları
+- Yeni görünüm: 4 tema (Ayarlar → Görüntü → Tema): Gece neonu, Amfi, Canlı mor, Klasik
+- Oyun ekranı sadeleşti: "Nasıl çalmak istersin?" kartı; ayarlar tek "⚙ Ayarlar" menüsünde
+- Yeni akort ekranı (gitar başı ve burgular); en ince tel küçük "e"; başka alıştırmaya geçince eski sonuç ekranı görünmüyor
+- 
+- Telefonda görünen değişiklik yok (yenilik bilgisayar sürümünde: Tonu eşleştir dinamik eşleştirme)
+- 
+- Sanal el daha gerçekçi: parmaklar kemer yaparak tele iner, avuç sapın arkasında kalır; parmaklar iç içe ve sapın içine girmez
+- Açık akorlarda (La, Re, Sol…) alışılmış parmak numaraları gösterilir
+- 
+- Yeni: Bilgi → "🎙 Kalibrasyon kaydı": 11 kısa adımı çal, kayıtlarını geliştiriciye hazırla; oyun notaları ve akorları mikrofonda daha doğru duysun diye
+- "Paketi kaydet" kayıtları telefonun İndirilenler / Guitapo klasörüne yazar; internete hiçbir şey gitmez
+- 
+- Telefonda görünen değişiklik yok (yenilik bilgisayar sürümünde: Guitapo Amfi'ye gerçek kabinler)
+- 
+- Telefonda görünen değişiklik yok (yenilik bilgisayar sürümünde: Tonu eşleştir)
+- 
+- Bilgi → "Erken sürümleri al": yeni sürümleri herkesten önce alın
+- 
+- Rozetler 87'ye çıktı: yeni Elmas kademesi ve yeni rozet grupları (Azim, Uzun seans, Adım adım...)
+- Rozet kartlarında bronz, gümüş, altın, elmas simgeleri
+- 
+- Oyun içi Görünüm penceresinde "Çalan el" seçeneği (solak / sağ el)
+- 
+- Sanal el parmakları doğru tele tam zamanında basar
+- Hata raporları (izinle): hata olursa kısa teknik kayıt geliştiriciye gider; Sorun bildir'de Gönder düğmesi
+- 
+- Solak mod: Ayarlar → Çalan el (sap, el ve şerit aynalanır)
+- Sanal el gerçek gitardaki gibi sapın arkasından gelir; bilek tellere göre hareket eder
+- 
+- Sap görünümü gerçek gitar gibi: ahşap klavye, gövdeye doğru daralan perdeler, ince teller, gitar başı
+- Sanal el artık gerçek bir el modeli (ten rengi; Şeffaf / Belirgin)
+- Picking egzersizlerinde pena yönü okları (↓ ↑)
+- Adım adım öğrenme: hız kendiliğinden artar (Hedef hız), metronom adımlarında şarkı sesi
+- Perde numaraları uzaktan beri ekranda; biraz yüksekte durur, yaklaştıkça yavaşça notaya iner
+- Tempo / ölçü değişiminden önce uyarı; Guitar Pro dosyasında yazılıysa pena yönü okları (↓ ↑)
+- Stüdyo: bas notalarını elle düzenleme (bas ızgarası)
+- Nota ekle, sil, uzat, kaydır; ölçü kopyala / yapıştır
+- Perde numaraları sık notalarda okunaklı; art arda notalarda ortaya doğru kayar
+- Nota hızı ayarı (Hızlı / Normal); teller artık notaların önüne geçmiyor
+- Sorun bildir: Bilgi ekranında tek tıkla sorun raporu (Kopyala / Dosya olarak kaydet)
+- Eğitim paketleri: birçok egzersizi tek dosyadan ekle; yapay zekâ istek metni ve kalıp üretici
+- Perde numaraları daha okunaklı; Ayarlar'da Normal / Büyük seçimi
+- Oyun ekranında bölüm çubuğu ve zor bölüm uyarısı; "İyi" isabetlerde erken / geç yönü
+- Düzeltme: ayar kaydı bozulursa uygulama açılmıyordu; gitar modelindeki marka benzeri süs kaldırıldı
+- Sap görünümünde parmak numaraları ve 3B modelde hareket eden sanal el; günün ve haftanın meydan okuması
+- Gelişim ekranı: günlük hedef, Bugünün planı, kendi listeler; 179 egzersiz (yeni: Arpej, Rifler, Solo cümleleri)
+- Oyun sesleri ve bölüm sonu kutlaması; mikrofonda akorlar daha hoşgörülü
+- 
+- Stüdyo: gerçek bas (parmakla / penayla), gerçek davul seti ve piyano sesleri; uygulamayla gelir, internet gerekmez
+- Stüdyo: davulda Set → Sentez ile eski sese dönülebilir
+- 
+- Yeni: uygulama içinden güncelleme. Günde bir kez yeni sürüme bakar (Bilgi → Güncellemeleri denetle ile de); İndir ve kur ile kendisi indirir, Android bir kez onay ister
+- Bu sürümü son kez elle kur; sonraki sürümler uygulamanın içinden gelir
+- 
+- Yeni görünüm: ayarlar, bilgi, profil, stüdyo ve oyun panelleri stüdyo cihazı paneli gibi; oyunda Çalışma paneli sekmeli
+- Stüdyo: klavye kanalı, ikinci gitar armonisi, yerleşik efektler; yeni menü ve kutucuk tasarımı
+- Ayarlar → Görüntü → 3D çözünürlüğü (telefon ısınırsa düşür)
+- Düzeltme: telefonda uygulama dosyaları bulunamıyordu (boş ekran); paket yeniden düzenlendi
+- Şarkı yaz ve Stüdyo telefonda: kayıt + canlı tab, tab düzenleyici, çok kanallı düzenleme, davul adım ızgarası ve bas
+- İlk Android denemesi: uygulamanın ekranları telefonda (yatay), telefon mikrofonu ya da USB ses kartıyla çalma
+- Telefona göre küçük ekran düzeni; dosya kaydetme İndirilenler/Guitapo klasörüne
+- Amfi simülasyonu, eklentiler ve şarkıyı parçalara ayırma bu denemede yok

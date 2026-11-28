@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Guitapo</title>
+    <item>
+      <title>Guitapo 0.20.28</title>
+      <pubDate>Fri, 27 Nov 2026 20:52:35 GMT</pubDate>
+      <description><![CDATA[<h3>Guitapo 0.20.28</h3><ul><li>Yeni: Freestyle kaydında gitar amfi tonuyla (Temiz / Crunch / Metal / Kuru seçilebilir)</li><li>Freestyle: tarz akor dizisine uyar (blues&#x27;ta metal yok); metalde akorlar power chord</li><li>Seçili ses kartı açılamazsa (ör. takılı değil) uygulama kendiliğinden başka ses cihazına geçer</li><li>Düzeltme: alçak ekranlı dizüstülerde sonuç kartı alttaki sapın arkasında kalıyordu</li><li>Küçük düzeltmeler: egzersiz kartı etiketi, telefonda sekmeler ve gam adı; Freestyle seçimleri cihazlar arasında eşitlenir</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/apobaba12/guitapo-surumler/main/Guitapo-Kurulum-0.20.28.exe"
+                 sparkle:version="0.20.28"
+                 sparkle:os="windows-x64"
+                 sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /NORESTART"
+                 sparkle:edSignature="chHuJfCsuvljUbQfmUOofAyiBzxivrlZaJz/7ffk6l2TL3JTDo0tjLDgMedv7DZhcsbvJHQ5w5bMAli2aV5CCQ=="
+                 length="29675010"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
